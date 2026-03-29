@@ -1,6 +1,3 @@
-Here is a complete, professional `README.md` template tailored to your matcha scrollytelling project. You can copy and paste this directly into your GitHub repository.
-
-````markdown
 # Artisan Iced Matcha Latte – Scrollytelling Experience 🍵
 
 A premium, Awwwards-style scrollytelling landing page built to showcase the dynamic deconstruction of an artisan iced matcha latte. As the user scrolls, a high-resolution 120-frame image sequence animates seamlessly, paired with beautifully choreographed typography.
