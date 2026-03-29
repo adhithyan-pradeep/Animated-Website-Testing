@@ -29,7 +29,7 @@ Make sure you have Node.js installed.
    ```bash
    git clone [https://github.com/adhithyan-pradeep/Animated-Website-Testing.git](https://github.com/adhithyan-pradeep/Animated-Website-Testing.git)
    cd Animated-Website-Testing
-````
+
 
 2.  Install dependencies:
 
@@ -69,6 +69,5 @@ Make sure you have Node.js installed.
 
 Inspired by high-end product pages (like Apple and luxury automotive brands), this project relies on huge typography, generous whitespace, and subtle animations to convey a professional, confident, and premium feel.
 
------
 
 *Designed & Developed by Adhithyan Pradeep*
