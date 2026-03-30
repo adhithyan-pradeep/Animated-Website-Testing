@@ -33,7 +33,7 @@ export default function MatchaAnimation() {
 
     for (let i = 0; i < TOTAL_FRAMES; i++) {
       const img = new Image();
-      img.src = `/sequence/frame_${i}.webp`;
+      img.src = `/Animated-Website-Testing/sequence/frame_${i}.webp`;
       img.onload = () => {
         loadedCount++;
         setImagesLoaded(loadedCount);
